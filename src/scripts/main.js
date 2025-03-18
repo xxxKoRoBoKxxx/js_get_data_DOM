@@ -29,3 +29,4 @@ document.querySelector('span.total-population').innerText = totalPopulation();
 
 document.querySelector('span.average-population').innerText =
   avaragePopulation();
+// fsdf
